@@ -47,18 +47,18 @@ This project provides a strong foundation for improving communication accessibil
 |:--:|
 |*Figure 1: Gesture "Buenos días" recognition by SVM1 model*|
 
-SVM model demo
+<!-- SVM model demo -->
 |![SVM model demo](assets/demo_CNN.mp4)|
 |:--:|
 |*Figure 2: SVM model real-time gesture recognition demonstration*|
 
 **CNN** <br>
-"Buenas noches" gesture sequence
+<!-- "Buenas noches" gesture sequence -->
 |![Gesture "Buenas noches" recognition by CNN2 model](assets/CNN2_Buenas_noches.png)|
 |:--:|
 |*Figure 3: Model CNN2 "Buenas noches" gesture recognition*|
 
-CNN model demo
+<!-- CNN model demo -->
 |![CNN model demo](assets/demo_CNN.mp4)|
 |:--:|
 |*Figure 4: CNN model real-time gesture recognition demonstration*|
