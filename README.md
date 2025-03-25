@@ -59,7 +59,7 @@ This project provides a strong foundation for improving communication accessibil
 |*Figure 3: Model CNN2 "Buenas noches" gesture recognition*|
 
 <!-- CNN model demo -->
-|![CNN model demo](assets/demo_CNN.mp4)|
+|![CNN model demo](https://github.com/timothyrd/SpanishSignLanguage-gesture-recognition/blob/main/assets/demo_CNN.mp4)|
 |:--:|
 |*Figure 4: CNN model real-time gesture recognition demonstration*|
 
@@ -88,3 +88,15 @@ Choose between the following models:
 
 3) Check the prediction capacity of the models: Once the model has been selected, it is possible to check its 
 prediction capacity in real time.
+
+---
+Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
